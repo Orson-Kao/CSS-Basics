@@ -20,6 +20,7 @@ color:purple;
 
 }
 
+/* the property text-align is used to set the horizontal alignment of the text of an element. it can align the text to the left, right, center, etc. */
 li{
 color:rgb(20,20,60);
 text-align: center;
